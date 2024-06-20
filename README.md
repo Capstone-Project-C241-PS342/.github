@@ -13,12 +13,12 @@
   </div>
   <h2>Team Members:</h2>
   <ul>
-    <li>Nadhira Apta Maheswari - M004D4KX1449</li> (Machine Learning)
-    <li>Keysa Anadea Aqiva Ajie - M004D4KX2378</li> (Machine Learning)
-    <li>Fira Areta Apsarini - M004D4KX2469</li> (Machine Learning)
-    <li>Savero Arkabuana - C010D4KY1217</li> (Cloud Computing)
-    <li>Moza Adirafi Satria Jaka - C010D4KY1236</li> (Cloud Computing)
-    <li>Shafa Najwa Nathania - A010D4KX3657</li> (Mobile Development)
-    <li>Rizky Alpariji - A319D4KY3794</li> (Mobile Development)
+    <li>Nadhira Apta Maheswari - M004D4KX1449</li>
+    <li>Keysa Anadea Aqiva Ajie - M004D4KX2378</li>
+    <li>Fira Areta Apsarini - M004D4KX2469</li>
+    <li>Savero Arkabuana - C010D4KY1217</li>
+    <li>Moza Adirafi Satria Jaka - C010D4KY1236</li>
+    <li>Shafa Najwa Nathania - A010D4KX3657</li>
+    <li>Rizky Alpariji - A319D4KY3794</li>
   </ul>
 </details>
