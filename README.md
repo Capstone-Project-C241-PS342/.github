@@ -94,7 +94,7 @@
 14. [Cookie-parser](https://www.npmjs.com/package/cookie-parser)
 
 ## Prototype
-You can see it [here]([https://www.figma.com/file/wkuYbKCbiLsCX4wgSEYPcF/Anticede?node-id=6%3A3](https://www.figma.com/proto/GX5kOWNYp2txML65K5zXY4/Gestura?node-id=0-1&viewport=983%2C474%2C0.47&t=uBNmN6CkyzrbCLbJ-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=200%3A334&show-proto-sidebar=1)).
+You can see it [here](https://www.figma.com/proto/GX5kOWNYp2txML65K5zXY4/Gestura?node-id=0-1&viewport=983%2C474%2C0.47&t=uBNmN6CkyzrbCLbJ-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=200%3A334&show-proto-sidebar=1).
 
 ## How to use our app
 
