@@ -98,17 +98,19 @@ You can see it [here]([https://www.figma.com/file/wkuYbKCbiLsCX4wgSEYPcF/Anticed
 
 ## How to use our app
 
-You can install the APK to your phone by downloading it from [here](https://drive.google.com/file/d/).
+You can install the APK to your phone by downloading it from [here](https://drive.google.com/file/d/1_AY_hJTBa_6SILtWFvQmVn-7sBQrzVWX/view?usp=sharing).
 
 ## Deploying to GCP
 
-For documentation on deploying to GCP, check this [documentation](https://gcp).
+For documentation on deploying to GCP, check this [documentation](https://c241-ps342-cc-5a5w3ss4oa-et.a.run.app).
 
 ## API Documentation
 
-You can check the API documentation on []()
+You can check the API documentation on [here](https://docs.google.com/document/d/1YflekahXdiFfDWfxJJug8ClyVQHuRA2U1Mo4D5t7cd0/edit?usp=sharing).
+Or you can check Postman API Documentations here [Postman API Link](https://drive.google.com/file/d/1vp8ocqQy06lFmhtlz-LITfo7GtAvCEcc/view?usp=sharing)
 
-If the link above doesn't work, check [here]()
-or [here](https://documenter.getpostman.com/view/).
+## Model Link
+
+VGG16 trained model using BISINDO Datasets [here](https://storage.googleapis.com/modelvgg16_ml/Model%20VGG16/modelVGG16.tflite).
 
 ## Future Developments
